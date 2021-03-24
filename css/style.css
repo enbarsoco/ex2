@@ -19,7 +19,6 @@ header {
     background-color: #ED4C5C;
     width: 100%;
     height: 151px;
-    margin-left: 1px;
 }
 
 #logo {
@@ -67,21 +66,20 @@ nav li:first-child {
     font-weight: bold;
 }
 
-.main-top {
+.main-profile {
     background-color: #ED4C5C;
     width: 100%;
     height: 506px;
-    margin-left: 1px;
 }
 
-.main-top img {
+.main-profile img {
     position: absolute;
     left: 89px;
     top: 196px;
     border-radius: 15px;
 }
 
-.main-top button {
+.main-profile button {
     position: absolute;
     width: 160px;
     height: 50px;
@@ -95,14 +93,13 @@ nav li:first-child {
     border-radius: 6px;
 }
 
-.main-center {
+.main-info {
     background-color: #FFFFFF;
     width: 100%;
     height: 657px;
-    margin-left: 1px;
 }
 
-.main-center h1 {
+.main-info h1 {
     position: absolute;
     font-weight: 500;
     font-size: 36px;
@@ -111,7 +108,7 @@ nav li:first-child {
     width: 445px;
 }
 
-.main-center p {
+.main-info p {
     position: absolute;
     width: 445px;
     font-size: 14px;
@@ -121,7 +118,7 @@ nav li:first-child {
     margin-left: 50px;
 }
 
-.main-center section {
+.main-info section {
     position: absolute;
     font-size: 14px;
     color: #ED4C5C;
@@ -129,22 +126,22 @@ nav li:first-child {
     margin-left: 50px;
 }
 
-.main-center ul {
+.main-info ul {
     position: absolute;
     margin-top: 345px;
     margin-left: 50px;
 }
 
-.main-center img {
+.main-info img {
     border-radius: 8px;
 }
 
-.main-center li {
+.main-info li {
     display: inline-block;
     margin-right: 30px;
 }
 
-.main-center span {
+.main-info span {
     position: absolute;
     width: 350px;
     height: 40px;
@@ -159,25 +156,25 @@ nav li:first-child {
     box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
 }
 
-.main-center .photo1-text {
+.main-info .photo1-text {
     margin-left: 50px;
 }
 
-.main-center .photo2-text {
+.main-info .photo2-text {
     margin-left: 433px;
 }
-.main-center .photo3-text {
+
+.main-info .photo3-text {
     margin-left: 816px;
 }
 
-.main-bottom {
+.main-skills {
     background-color: #F5F4F4;
     width: 100%;
     height: 657px;
-    margin-left: 1px;
 }
 
-.main-bottom h1 {
+.main-skills h1 {
     position: absolute;
     margin-top: 57px;
     margin-left: 50px;
@@ -185,7 +182,7 @@ nav li:first-child {
     font-size: 36px;
 }
 
-.main-bottom section {
+.main-skills section {
     position: absolute;
     background-color: #FFF;
     width: 255px;
@@ -193,13 +190,13 @@ nav li:first-child {
     margin-top: 160px;
 }
 
-.main-bottom img {
+.main-skills img {
     position: absolute;
     margin-top: 71.5px;
     margin-left: 92px;
 }
 
-.main-bottom h3 {
+.main-skills h3 {
     position: absolute;
     width: 255px;
     margin-top: 139px;
@@ -208,7 +205,7 @@ nav li:first-child {
     color: #000;
 }
 
-.main-bottom p {
+.main-skills p {
     position: absolute;
     width: 191px;
     height: 51px;
@@ -219,24 +216,24 @@ nav li:first-child {
     color: #000;
 }
 
-.main-bottom .first{
+.main-skills .first{
     margin-left: 50px;
 }
 
-.main-bottom img {
+.main-skills img {
      width: 60px;
      height: 50px;
 }
 
-.main-bottom .sec {
+.main-skills .sec {
     margin-left: 335px;
 }
 
-.main-bottom .third{
+.main-skills .third{
     margin-left: 620px;
 }
 
-.main-bottom .four{
+.main-skills .four{
     margin-left:905px;
 }
 
@@ -244,7 +241,6 @@ footer {
     background-color: #ED4C5C;
     width: 100%;
     height: 80px;
-    margin-left: 1px;
 }
 
 footer h3 {
